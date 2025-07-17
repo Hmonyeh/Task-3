@@ -1,0 +1,8 @@
+#colors
+
+ light-Green : rgba(203, 255, 208, 1);
+ Dark-Green: rgba(38, 166, 154, 1);
+ white: rgba(255, 255, 255, 1);
+ black: rgba(0, 0, 0, 1);
+
+
